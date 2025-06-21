@@ -50,8 +50,8 @@ Here are a few highlights from my work:
 
 ## 📫 Let's Connect!
 
-- 🌐 Portfolio: (cosmicviraj.github.io/PORTFOLIO_HUB/ )
-- 🔗 LinkedIn: (linkedin.com/in/virajjadhav03)
+- 🌐 Portfolio: cosmicviraj.github.io/PORTFOLIO_HUB/ 
+- 🔗 LinkedIn: linkedin.com/in/virajjadhav03
 - 📧 Email: jadhavviraj043@gmail.com
 
 ---
